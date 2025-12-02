@@ -4,7 +4,12 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+winnow = "0.7.14"
 
 [[bin]]
 name = "01"
 path = "src/01.rs"
+
+[[bin]]
+name = "02"
+path = "src/02.rs"
