@@ -45,3 +45,6 @@ path = "src/08.rs"
 name = "08-fast"
 path = "src/08-fast.rs"
 
+[[bin]]
+name = "09"
+path = "src/09.rs"
